@@ -242,20 +242,6 @@ out.lambda
 - If the input sequence is very long or has high resolution, the runtime and memory usage may increase.
 - For very large sequences, users may split the sequence into shorter clips and run the script separately.
 
-## Citation
-
-If you use this code in your research, please cite our paper:
-
-```bibtex
-@article{zhu2026elhstd,
-  title   = {Explicit local hypergraph prior-guided spatiotemporal tensor decomposition for infrared small target detection},
-  author  = {Zhu, Zhuo and Jia, Minmin and Wu, Chengmao},
-  journal = {Infrared Physics \& Technology},
-  year    = {2026}
-}
-```
-
-The BibTeX information will be updated after publication.
 
 ## License
 
